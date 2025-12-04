@@ -15,15 +15,15 @@ A clean, modern template for building React applications with Vite and Tailwind 
 1. Clone or copy this template
 2. Install dependencies:
 
-   ```bash
-   npm install
-   ```
+    ```bash
+    npm install
+    ```
 
 3. Start the development server:
 
-   ```bash
-   npm run dev
-   ```
+    ```bash
+    npm run dev
+    ```
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser
 
